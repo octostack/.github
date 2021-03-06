@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Octostack Community Support
-    url: https://support.octostack.com/
+    url: https://support.octostack.io/
     about: Please ask and answer questions here.
   - name: Octostack Security Bug Bounty
     url: https://bounty.github.com/
